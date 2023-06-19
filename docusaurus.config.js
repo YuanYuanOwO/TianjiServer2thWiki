@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Neige7/Wiki-Template',
+            href: 'https://github.com/Tianji-Server/TianjiServer2thWiki',
             label: 'GitHub',
             position: 'right',
           },
