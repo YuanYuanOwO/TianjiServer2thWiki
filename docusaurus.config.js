@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki-Template',
+  title: '天际服2周目Wiki',
   tagline: '天际服2周目Wiki',
   favicon: 'img/favicon.ico',
 
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/Neige7/Wiki-Template/blob/main'
+            'https://github.com/Tianji-Server/TianjiServer2thWiki/blob/main'
         },
         blog: false,
         theme: {
