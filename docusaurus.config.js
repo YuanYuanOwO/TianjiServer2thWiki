@@ -114,14 +114,14 @@ const config = {
             title: '插件发布',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/Neige7/Wiki-Template',
+                label: 'MCBBS宣传贴',
+                href: 'https://www.mcbbs.net/thread-1390354-1-1.html',
               },
             ],
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} YuanYuanOwO, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
