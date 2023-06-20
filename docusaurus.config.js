@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/Tianji-Server/TianjiServer2thWiki/blob/main'
+            'https://github.com/YuanYuanOwO/TianjiServer2thWiki/blob/main'
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Tianji-Server/TianjiServer2thWiki',
+            href: 'https://github.com/YuanYuanOwO/TianjiServer2thWiki',
             label: 'GitHub',
             position: 'right',
           },
