@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        如果有任何疑问都可以查询此页面~.
+        如果有任何疑问都可以查询此页面或询问管理员.
       </>
     ),
   },
