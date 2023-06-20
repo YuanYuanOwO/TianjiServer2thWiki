@@ -22,11 +22,12 @@ const FeatureList = [
     ),
   },
   {
-    title: '欸嘿',
+    title: 'Wiki相关',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        欸嘿?.
+        本Wiki为新版Wiki,内容帮助还在不断完善中.
+        如果你想完善Wiki可以点击文档页面的编辑此页.
       </>
     ),
   },

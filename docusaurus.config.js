@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '天际正版公益服2周目Wiki',
-  tagline: '天际正版公益服2周目Wiki',
+  tagline: '欢迎来到天际服Wiki喵',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

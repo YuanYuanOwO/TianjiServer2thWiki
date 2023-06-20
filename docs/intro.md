@@ -24,6 +24,6 @@ sidebar_position: 1
 >      
 >    服务器IP/域名:	**233.ci** 
   
-此外OP招募中,欢迎入群或[**Discord频道**](https://discord.gg/bfefw2E)申请.     
+此外OP招募中,欢迎[**入群**](https://jq.qq.com/?_wv=1027&k=QKurhX6E)或[**Discord频道**](https://discord.gg/bfefw2E)申请.     
 
 
