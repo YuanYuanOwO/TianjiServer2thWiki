@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://tianji-server.github.io/',
+  url: 'https://yuanyuanowo.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/TianjiServer2thWiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Tianji-Server', // Usually your GitHub org/user name.
+  organizationName: 'YuanYuanOwO', // Usually your GitHub org/user name.
   projectName: 'TianjiServer2thWiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
