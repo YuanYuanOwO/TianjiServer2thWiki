@@ -102,16 +102,20 @@ const config = {
             ],
           },
           {
-            title: '交流',
+            title: '服务器交流频道',
             items: [
               {
                 label: 'QQ群',
                 href: 'https://jq.qq.com/?_wv=1027&k=QKurhX6E',
               },
+              {
+                label: 'Discord频道',
+                href: 'https://discord.gg/bfefw2E',
+              },
             ],
           },
           {
-            title: '插件发布',
+            title: '相关链接',
             items: [
               {
                 label: 'MCBBS宣传贴',
