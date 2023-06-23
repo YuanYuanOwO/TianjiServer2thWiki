@@ -121,6 +121,10 @@ const config = {
                 label: 'MCBBS宣传贴',
                 href: 'https://www.mcbbs.net/thread-1390354-1-1.html',
               },
+              {
+                label: 'MC百科宣传贴',
+                href: 'https://play.mcmod.cn/sv20186348.html',
+              },
             ],
           },
         ],
