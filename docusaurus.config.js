@@ -106,11 +106,11 @@ const config = {
             items: [
               {
                 label: 'QQ群',
-                href: 'https://jq.qq.com/?_wv=1027&k=QKurhX6E',
+                href: 'https://jq.qq.com/?_wv=1027&k=ZHIBqXTe',
               },
               {
                 label: 'Discord频道',
-                href: 'https://discord.gg/bfefw2E',
+                href: 'https://discord.gg/8xH2a3vbnH',
               },
             ],
           },
