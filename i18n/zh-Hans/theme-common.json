@@ -10,7 +10,7 @@
   "theme.ErrorPageContent.tryAgain": "重试",
   "theme.NavBar.navAriaLabel": "主导航",
   "theme.NotFound.p1": "我们找不到您要找的页面。",
-  "theme.NotFound.p2": "请联系原始链接来源网站的所有者，并告知他们链接已损坏。",
+  "theme.NotFound.p2": "链接已损坏或不存在，请尝试联系服务器管理员",
   "theme.NotFound.title": "找不到页面",
   "theme.TOCCollapsible.toggleButtonLabel": "本页总览",
   "theme.admonition.caution": "警告",
