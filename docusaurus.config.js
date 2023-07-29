@@ -127,7 +127,7 @@ const config = {
               },
               {
                 label: 'MyMCList宣传贴',
-                href: 'https://play.mcmod.cn/sv20186348.html',
+                href: 'https://mymclist.com/tianjifu-shengcungongyizhengbanfuwuqi',
               },
             ],
           },
