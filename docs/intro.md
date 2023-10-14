@@ -25,7 +25,7 @@ sidebar_position: 1
 >      
 >    服务器IP/域名:	**233.ci** 
   
-此外OP招募中,欢迎[**入群**](https://jq.qq.com/?_wv=1027&k=ZHIBqXTe)或[**Discord频道**](https://discord.gg/8xH2a3vbnH)申请.     
+此外OP招募中,欢迎[**入群**](https://jq.qq.com/?_wv=1027&k=ZHIBqXTe)或[**Discord频道**](https://discord.gg/8xH2a3vbnH)或[**渡渡DoDo频道**](https://imdodo.com/s/243881)申请.     
 ## 更多链接:
 ----  
 [玩家论坛](https://bbs.tianji.me)|[服务器图床](https://tu.tianji.me)
