@@ -112,6 +112,10 @@ const config = {
                 label: 'Discord频道',
                 href: 'https://discord.gg/8xH2a3vbnH',
               },
+              {
+                label: '渡渡DoDo频道',
+                href: 'https://imdodo.com/s/243881',
+              },
             ],
           },
           {
