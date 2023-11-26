@@ -26,7 +26,7 @@ CoreProtect是一款可以查询方块状态/容器状态的插件,可以使用�
 
 如果你想查询该玩家50分钟内都从容器方块中拿了些什么或者放了些什么，  
 输入指令`/co lookup u:Daylight_Yuan t:50m a:container` 
-## a:action部分可以使用的参数  
+## action部分可以使用的参数  
   
 | Action | 介绍 |
 | --- | --- |
