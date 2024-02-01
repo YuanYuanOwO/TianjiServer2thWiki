@@ -129,10 +129,10 @@ const config = {
                 label: 'MC百科宣传贴',
                 href: 'https://play.mcmod.cn/sv20186348.html',
               },
-              {
-                label: 'MyMCList宣传贴',
-                href: 'https://mymclist.com/tianjifu-shengcungongyizhengbanfuwuqi',
-              },
+ //             {
+ //               label: 'MyMCList宣传贴',
+ //               href: 'https://mymclist.com/tianjifu-shengcungongyizhengbanfuwuqi',
+ //             },
             ],
           },
         ],
