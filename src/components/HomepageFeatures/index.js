@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        本周目始于2023/6/23.
+        本周目始于2024/03/08.
       </>
     ),
   },
