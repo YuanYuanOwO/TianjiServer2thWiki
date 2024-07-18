@@ -2,7 +2,7 @@
 sidebar_position: 13
 ---
 # QuickShop
-天际服所使用的是由 Ghost-chu 主要开发维护的 [QuickShop-Hikari](https://modrinth.com/plugin/quickshop-hikari)  
+天际服所使用的是 [QuickShop-Hikari](https://modrinth.com/plugin/quickshop-hikari)  
 ### 普通玩家命令列表
 ```yaml
 QuickShop 帮助 在服务器中输入 /qs 即可查看
