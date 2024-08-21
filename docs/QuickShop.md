@@ -41,4 +41,4 @@ QuickShop 帮助 在服务器中输入 /qs 即可查看
 ![](_images/shophistory.png)
 ### 如何让其它玩家也可以打开我的商店/帮助我的商店补货
 可以输入`/qs staff add 玩家id`  
-例如`/qs staff add Karma`就是在当前商店给予助手权限  
+例如`/qs staff add Karma`就是在当前商店给予Karma助手权限  
