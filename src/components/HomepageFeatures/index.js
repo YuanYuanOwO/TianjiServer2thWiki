@@ -18,6 +18,7 @@ const FeatureList = [
     description: (
       <>
         如果有任何疑问都可以查询此页面或询问管理员.
+        腐竹邮箱:yuanyuanowo@gmail.com
       </>
     ),
   },
