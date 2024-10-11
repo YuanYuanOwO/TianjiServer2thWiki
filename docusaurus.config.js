@@ -112,27 +112,23 @@ const config = {
                 label: 'Discord频道',
                 href: 'https://discord.gg/8xH2a3vbnH',
               },
-              {
-                label: '渡渡DoDo频道',
-                href: 'https://imdodo.com/s/243881',
-              },
             ],
           },
           {
             title: '相关链接',
             items: [
-//             {
-//               label: 'MCBBS宣传贴',
-//                href: 'https://www.mcbbs.net/thread-1390354-1-1.html',
-//              },
+             {
+               label: '我的世界服务器列表',
+                href: 'https://www.mclists.cn/server/1280.html',
+              },
               {
                 label: 'MC百科宣传贴',
                 href: 'https://play.mcmod.cn/sv20186348.html',
               },
-//             {
-//               label: 'MyMCList宣传贴',
-//               href: 'https://mymclist.com/tianjifu-shengcungongyizhengbanfuwuqi',
-//             },
+             {
+               label: '我的世界找服网宣传贴',
+               href: 'https://www.mczfw.cn/server/881.html',
+             },
             ],
           },
         ],
