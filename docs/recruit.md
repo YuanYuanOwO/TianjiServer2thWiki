@@ -1,5 +1,5 @@
 ## 管理员招募
-因技术力不足,现招募服务器管理员  
+因缺少人手,现招募服务器管理员  
 
 硬性条件:
 
@@ -20,4 +20,4 @@
 * 翻译插件文本，并熟悉该插件使用方法
 * 有自己的收入(?)
 
-欢迎各位联系腐竹(邮箱:yuanyuanowo@qq.com)申请管理员，或者[**入群**](https://jq.qq.com/?_wv=1027&k=ZHIBqXTe)或[**Discord频道**](https://discord.gg/8xH2a3vbnH)或[**渡渡DoDo频道**](https://imdodo.com/s/243881)申请.
+欢迎各位联系腐竹(邮箱:yuanyuanowo@qq.com)申请管理员，或者[**入群**](https://jq.qq.com/?_wv=1027&k=ZHIBqXTe)或[**Discord频道**](https://discord.gg/8xH2a3vbnH).
