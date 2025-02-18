@@ -1,6 +1,7 @@
 {
   "position": 999,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "天际服的服务器子服介绍"
   }
 }
