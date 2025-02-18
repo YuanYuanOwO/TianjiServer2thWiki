@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 天际正版公益服
+# 基本介绍
 
 简称天际服,天际服是一个致力于打造氛围良好的正版玩家圈子的Minecraft公益服务器.采用正版验证+公益免费的模式,确保游戏环境公平和谐.同时拥有大量的黑名单样本和反作弊机制,从根源杜绝影响游戏体验的情况.一周目UtbCraft开始于2013年5月9日,经历1.4.6到1.21.4多个版本,现在正处于3周目.3周目使用1.21.4版本最新服务端,版本会跟随Mojang官方最新版本进行更新,保证玩家能够最快体验到最新版本内容,玩家可以使用1.21.4版本登入服务器,允许使用小地图、R键整理等MOD.  
 您可以给`yuanyuanowo@qq.com`发送邮件联系服务器管理组
@@ -25,10 +25,10 @@ sidebar_position: 1
 >      
 >    服务器IP/域名:	**233.ci** 
   
-此外OP招募中,欢迎[**入群**](https://jq.qq.com/?_wv=1027&k=ZHIBqXTe)或[**Discord频道**](https://discord.gg/8xH2a3vbnH)或[**渡渡DoDo频道**](https://imdodo.com/s/243881)申请.     
+此外OP招募中,欢迎[**入群**](https://jq.qq.com/?_wv=1027&k=ZHIBqXTe)或[**Discord频道**](https://discord.gg/8xH2a3vbnH)申请.     
 ## 更多链接:
 ----  
-[玩家论坛](https://bbs.tianji.me)|[服务器图床](https://tu.tianji.me)
+[MC百科宣传贴](https://play.mcmod.cn/sv20186348.html)  
 
 
 

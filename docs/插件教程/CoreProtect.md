@@ -1,6 +1,3 @@
----
-sidebar_position: 11
----
 ## CoreProtect
 CoreProtect是一款可以查询方块状态/容器状态的插件,可以使用指令`/co i`来进入/退出查询状态.
 
@@ -13,7 +10,7 @@ CoreProtect是一款可以查询方块状态/容器状态的插件,可以使用�
 如果你想查询 Daylight_Yuan 在50分钟内都做了些什么，可以输入`/co lookup u:Daylight_Yuan t:50m`  
 ![](_images/lookup.png)  
 这里会显示 Daylight_Yuan 50分钟内的所有操作.  
-如果你要查询指定操作，请加参数  
+如果你要查询指定操作，请加参数
 
 | 参数 | 介绍 |
 | :---: | :---: |
@@ -25,9 +22,9 @@ CoreProtect是一款可以查询方块状态/容器状态的插件,可以使用�
 | `e:<exclude>`| 从查询中排除区块/实体|  
 
 如果你想查询 Daylight_Yuan 50分钟内都从容器方块中拿了些什么或者放了些什么，  
-输入指令`/co lookup u:Daylight_Yuan t:50m a:container` 
-## action部分可以使用的参数  
-  
+输入指令`/co lookup u:Daylight_Yuan t:50m a:container`
+## action部分可以使用的参数
+
 | Action | 介绍 |
 | --- | --- |
 | `a:block` | 方块放置/破坏 |
@@ -56,4 +53,3 @@ CoreProtect是一款可以查询方块状态/容器状态的插件,可以使用�
 输入指令`/co near`可以查询5格内所有的操作变化  
 ![](_images/conear.png)  
 如果出现 `#chicken 击杀 #chicken` 等类似情况,是生物被挤压而死  
-
