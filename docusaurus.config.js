@@ -102,7 +102,7 @@ const config = {
             ],
           },
           {
-            title: '服务器交流频道',
+            title: '联系我们',
             items: [
               {
                 label: 'QQ群',
@@ -118,8 +118,8 @@ const config = {
             title: '相关链接',
             items: [
              {
-               label: '我的世界服务器列表',
-                href: 'https://www.mclists.cn/server/1280.html',
+               label: 'MineBBS宣传贴',
+                href: 'https://www.minebbs.com/threads/1-21-4-11.34421/',
               },
               {
                 label: 'MC百科宣传贴',
@@ -133,7 +133,7 @@ const config = {
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} YuanYuanOwO, All Rights Reserved.`,
+        copyright: `Copyright © 2013-${new Date().getFullYear()} YuanYuanOwO, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
