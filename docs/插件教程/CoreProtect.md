@@ -1,5 +1,4 @@
-## CoreProtect
-CoreProtect是一款可以查询方块状态/容器状态的插件,可以使用指令`/co i`来进入/退出查询状态.
+如果被熊了，可以使用CoreProtect插件，它是一款可以查询方块状态/容器状态的插件,可以使用指令`/co i`来进入/退出查询状态.
 
 ## inspect
 ![](_images/coi.png)  
