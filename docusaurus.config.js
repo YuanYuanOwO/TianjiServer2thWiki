@@ -133,7 +133,7 @@ const config = {
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} YuanYuanOwO, All Rights Reserved.`,
+        copyright: `Copyright © 2013-${new Date().getFullYear()} YuanYuanOwO, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {

@@ -8,17 +8,19 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        本周目始于2024/03/08.
+        天际服是一个致力于打造氛围良好的正版玩家圈子的Minecraft公益服务器.
+        采用正版验证+公益免费的模式,确保游戏环境公平和谐.
+        同时拥有大量的黑名单样本和反作弊机制,从根源杜绝影响游戏体验的情况.
       </>
     ),
   },
   {
-    title: '文档详细',
+    title: '基本设定',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        如果有任何疑问都可以查询此页面或询问管理员.
-        腐竹邮箱:yuanyuanowo@gmail.com
+        服务器设有多个优化设定，例如三叉戟增强，作物机制调整，宝箱机制调整以及幻翼机制调整等多个设定..
+        调整了原版游戏体验!除此之外服务器还设有多个丰富玩法，更多附魔，职业系统...
       </>
     ),
   },
@@ -27,8 +29,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        本Wiki为新版Wiki,内容帮助还在不断完善中.
-        如果你想完善Wiki可以点击文档页面的编辑此页.
+        本Wiki正在建设中,所有内容还在不断完善中.
+        如果你想完善Wiki可以联系腐竹.
       </>
     ),
   },
