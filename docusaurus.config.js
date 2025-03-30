@@ -72,6 +72,12 @@ const config = {
             position: 'left',
             label: '开始',
           },
+          {
+            type: 'doc',
+            docId: '服务器相关/服务器规则',
+            position: 'left',
+            label: '服务器规则',
+          },
           // 搜索框
           {
             type: 'search',
