@@ -3,8 +3,8 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Horizon 天际服',
-  tagline: '探索天际以星辰...遨游梦想于天际',
+  title: '天际正版公益服Wiki',
+  tagline: '查询服务器的基本设定以及其它信息喵~',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -55,7 +55,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Tianji Wiki',
+        title: '天际服 Wiki',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -80,6 +80,11 @@ const config = {
             label: '规则',
           },
           // 搜索框
+          {
+            href: 'https://github.com/YuanYuanOwO/TianjiServer2thWiki',
+            label: 'GitHub',
+            position: 'right',
+          },
           {
             type: 'search',
             position: 'right',

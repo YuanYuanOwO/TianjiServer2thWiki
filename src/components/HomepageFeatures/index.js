@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        天际服致力于打造温馨友善的 <code>正版Minecraft公益社区</code>. 
-        采用 <code>正版验证+公益免费</code> 的模式,确保游戏环境公平和谐.
+        天际服致力于打造温馨友善的 正版Minecraft公益社区. 
+        采用 正版验证+公益免费 的模式,确保游戏环境公平和谐.
       </>
     ),
   },
@@ -18,8 +18,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        服务器 <code>基于原版</code> 做出了<u><a href="/category/基本设定"><code>多样的优化</code></a></u>, 
-        同时对于原版玩法进行了拓展. 如 <u><a href="/category/插件教程"><code>更多附魔、MCMMO</code></a></u> 等
+        服务器基于原版做出了多样的优化, 
+        同时对于原版玩法进行了拓展. 如更多附魔、MCMMO 等
       </>
     ),
   },
@@ -30,7 +30,7 @@ const FeatureList = [
       <>
         本文档站仍在不断完善, 
         若您想为此文档做出贡献,
-        请访问 <u><a href="https://github.com/Tianji-Server/TianjiServer2thWiki"><code>Github仓库</code></a></u>
+        请访问 Github仓库
       </>
     ),
   },
