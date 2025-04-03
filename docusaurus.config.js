@@ -1,13 +1,10 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '天际正版公益服Wiki',
-  tagline: '欢迎来到天际服Wiki喵',
+  title: 'Horizon 天际服',
+  tagline: '探索天际以星辰...遨游梦想于天际',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -33,7 +30,6 @@ const config = {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans'],
   },
-
   presets: [
     [
       'classic',
@@ -59,7 +55,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '天际正版公益服Wiki',
+        title: 'Tianji Wiki',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -67,29 +63,25 @@ const config = {
         hideOnScroll: false,
         items: [
           {
+            to: '/',
+            position: 'left',
+            label: '主页',
+          },
+          {
             type: 'doc',
-            docId: 'intro',
+            docId: '开始',
             position: 'left',
             label: '开始',
           },
           {
             type: 'doc',
-            docId: '服务器相关/服务器规则',
+            docId: '规则',
             position: 'left',
-            label: '服务器规则',
+            label: '规则',
           },
           // 搜索框
           {
             type: 'search',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/YuanYuanOwO/TianjiServer2thWiki',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            type: 'localeDropdown',
             position: 'right',
           },
         ],
@@ -103,7 +95,11 @@ const config = {
             items: [
               {
                 label: '开始',
-                to: '/intro',
+                to: '/开始',
+              },
+              {
+                label: '规则',
+                to: '/规则',
               },
             ],
           },
@@ -141,17 +137,12 @@ const config = {
         // 底部版权信息
         copyright: `Copyright © 2013-${new Date().getFullYear()} YuanYuanOwO, All Rights Reserved.`,
       },
-      // 深浅主题
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-      // 颜色随系统切换
       colorMode: {
+        disableSwitch: true,
+        defaultMode: 'light',
         respectPrefersColorScheme: true,
       },
     }),
-  
     themes: [
       [
         require.resolve("@easyops-cn/docusaurus-search-local"),

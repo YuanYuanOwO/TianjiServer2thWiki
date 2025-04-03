@@ -4,33 +4,33 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '简单介绍',
+    title: '简介',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        天际服是一个致力于打造氛围良好的正版玩家圈子的Minecraft公益服务器.
-        采用正版验证+公益免费的模式,确保游戏环境公平和谐.
-        同时拥有大量的黑名单样本和反作弊机制,从根源杜绝影响游戏体验的情况.
+        天际服致力于打造温馨友善的 <code>正版Minecraft公益社区</code>. 
+        采用 <code>正版验证+公益免费</code> 的模式,确保游戏环境公平和谐.
       </>
     ),
   },
   {
-    title: '基本设定',
+    title: '设定',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        服务器设有多个优化设定，例如三叉戟增强，作物机制调整，宝箱机制调整以及幻翼机制调整等多个设定..
-        调整了原版游戏体验!除此之外服务器还设有多个丰富玩法，更多附魔，职业系统...
+        服务器 <code>基于原版</code> 做出了<u><a href="/category/基本设定"><code>多样的优化</code></a></u>, 
+        同时对于原版玩法进行了拓展. 如 <u><a href="/category/插件教程"><code>更多附魔、MCMMO</code></a></u> 等
       </>
     ),
   },
   {
-    title: 'Wiki相关',
+    title: '贡献',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        本Wiki正在建设中,所有内容还在不断完善中.
-        如果你想完善Wiki可以联系腐竹.
+        本文档站仍在不断完善, 
+        若您想为此文档做出贡献,
+        请访问 <u><a href="https://github.com/Tianji-Server/TianjiServer2thWiki"><code>Github仓库</code></a></u>
       </>
     ),
   },
