@@ -75,7 +75,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: '规则',
+            docId: '服务器相关/服务器规则',
             position: 'left',
             label: '规则',
           },
