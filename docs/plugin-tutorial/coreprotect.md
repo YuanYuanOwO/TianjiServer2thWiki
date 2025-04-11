@@ -10,21 +10,18 @@
 
 ![coi](/images/coi.png)
 在开启查询模式后:
-- 当你**左键任意方块**的时候，可以查询该方块被谁所放置
-- 当你**右键箱子或木桶等容器方块**的时候，会为显示该方块的物品变更记录
+
+- 当你**左键任意方块**的时候，可以查询该方块被谁所放置  
+- 当你**右键箱子或木桶等容器方块**的时候，会为显示该方块的物品变更记录  
 
 ## /co lookup 指令
 
 ![lookup](/images/lookup.png)
 
-如果你想查询`Daylight_Yuan`在50分钟内都做了些什么
-
-可以输入`/co lookup u:Daylight_Yuan t:50m`
-
-这里会显示`Daylight_Yuan`50分钟内的所有操作
-
-如果你想查询 `Daylight_Yuan` 50分钟内从容器方块中的操作记录
-
+如果你想查询`Daylight_Yuan`在50分钟内都做了些什么  
+可以输入`/co lookup u:Daylight_Yuan t:50m`  
+这里会显示`Daylight_Yuan`50分钟内的所有操作  
+如果你想查询 `Daylight_Yuan` 50分钟内从容器方块中的操作记录  
 输入指令`/co lookup u:Daylight_Yuan t:50m a:container`
 
 ### 可用参数
