@@ -3,7 +3,9 @@
 记载了关于 QuickShop 箱子商店的几个问题
 天际服所使用的是 [QuickShop-Hikari](https://modrinth.com/plugin/quickshop-hikari)
 注意：资源服不可以使用 QuickShop
+
 ## 普通玩家命令列表
+
 ```yaml
 QuickShop 帮助 在服务器中输入 /qs 即可查看
 /qs about - 显示QuickShop信息
@@ -31,9 +33,10 @@ QuickShop 帮助 在服务器中输入 /qs 即可查看
 /qs transferall - 将某人的所有商店转移给其他人
 /qs transferownership - 将正在看向的商店转让给其他玩家
 ```
-## 如何创建一个商店?
 
-主手中拿着你想要交易的物品,左键容器方块(箱子或者是木桶)后按照提示输入价格就OK了
+## 如何创建一个商店？
+
+主手中拿着你想要交易的物品，左键容器方块 (箱子或者是木桶) 后按照提示输入价格就 OK 了
 
 不知道商店交易的是什么物品时，推荐点击`[物品预览]`
 
@@ -51,4 +54,4 @@ QuickShop 帮助 在服务器中输入 /qs 即可查看
 
 可以输入`/qs staff add 玩家id`
 
-例如`/qs staff add Karma`就是在当前商店给予 Karma 助手权限
+例如`/qs staff add Karma`就是在当前商店给予游戏名为 Karma 助手权限
