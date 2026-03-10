@@ -31,7 +31,7 @@ export default defineConfig({
     externalLinkIcon: true,
     footer:{
       message: "～(∠・ω< )",
-      copyright: 'Copyright © 2013-2025 YuanYuanOwO, All Rights Reserved.'
+      copyright: 'Copyright © 2013-2026 YuanYuanOwO, All Rights Reserved.'
     },
     lastUpdated: {
       text: '上次更新'
