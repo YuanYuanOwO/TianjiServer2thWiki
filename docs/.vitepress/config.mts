@@ -53,7 +53,7 @@ export default defineConfig({
       { text: '规定', link: '/rules'},
       { text: 'MineBBS宣传贴', link: 'https://www.minebbs.com/threads/1-21-4-11.34421/' },
       { text: 'MC百科宣传贴', link: 'https://play.mcmod.cn/sv20186348.html' },
-      { text: '我的世界找服网宣传贴', link: 'https://www.mczfw.cn/server/881.html' }
+      { text: '爱发电', link: 'https://afdian.com/a/yuanyuanowo' }
     ],
     sidebar: [
       {
