@@ -121,6 +121,23 @@ export default defineConfig({
         ]
       },
       {
+        text: '小镇系统',
+        items:[
+          {
+            text: '玩家指南',
+            link: '/town/PLAYER_GUIDE'
+          },
+          {
+            text: '功能与玩法说明',
+            link: '/town/FUNCTIONS_AND_GAMEPLAY'
+          },
+          {
+            text: '定价说明',
+            link: '/town/PRICING'
+          }
+        ]
+      },
+      {
         text: '插件教程',
         items:[
           {
